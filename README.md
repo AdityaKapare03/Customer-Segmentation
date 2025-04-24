@@ -66,6 +66,22 @@ The analysis identified three distinct customer segments:
 2. **Medium-Value Customers**: Regular shoppers with moderate spending
 3. **Low-Value Customers**: Infrequent shoppers with lower monetary value
 
+### Correlation Analysis
+![Correlation Matrix](images/correlation_matrix.png)
+*Figure 1: Correlation matrix of customer features*
+
+### Principal Component Analysis
+![Cumulative Variance](images/cumulative_variance.png)
+*Figure 2: Cumulative explained variance by principal components*
+
+### Clustering Evaluation
+![Silhouette Score](images/silhoutte_score.png)
+*Figure 3: Silhouette scores for different cluster numbers*
+
+### Cluster Visualization
+![3D Visualization](images/3d_visualization.png)
+*Figure 4: 3D visualization of customer clusters in PCA space*
+
 Each segment demonstrates unique shopping behaviors and preferences, enabling targeted marketing strategies.
 
 ## Files
